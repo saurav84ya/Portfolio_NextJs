@@ -49,6 +49,9 @@ export default function Navbar() {
               <Navigation/>
           </nav>
         </div>
+
+
+        {/* for small devices */}
           
         {
           isOpen && (
